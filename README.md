@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IanDelegue
+- 👋 Hi, I’m @iandlg
 - 👀 I enjoy programming
 - 🌱 I’m currently enrolled in the mechanical engineering program at the EPFL in Switzerland
 - 💞️ I’m looking to collaborate on config files for linux programs
